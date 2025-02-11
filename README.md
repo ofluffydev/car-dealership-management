@@ -1,5 +1,7 @@
 # Car Dealership Management
 
+Live preview available here: https://car-dealership-management.pages.dev/
+
 ## Overview
 
 Car Dealership Management is a web application designed to help car dealerships manage their inventory, sales, financing, compliance, banking, DMV processing, and generate reports. The application is built using modern web technologies and is open-source under the GNU Affero General Public License v3.0 (AGPL-3.0).
